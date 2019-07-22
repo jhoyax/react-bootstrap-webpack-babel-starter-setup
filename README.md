@@ -2,10 +2,10 @@
 
 ### Installation
 
-### `npm install`
+`npm install`
 
 ### Available Scripts
 
-### `npm start`
+`npm start`
 
-### `npm run build`
+`npm run build`
